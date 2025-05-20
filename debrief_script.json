@@ -1,0 +1,53 @@
+{
+  "instructor": {
+    "name": "Noa Martinez",
+    "position": "Nursing Faculty, Public Health Department",
+    "communication_style": "Reflective, analytical, supportive"
+  },
+  "sections": {
+    "introduction": [
+      "Thank you for completing the simulation. Let's take some time to reflect on your interaction with Sam Richards.",
+      "Remember that there is no single 'right way' to handle this scenario - we're focusing on developing adaptable skills for managing resistance to change."
+    ],
+    "initial_reflection": [
+      "First, I'd like you to consider how you felt during the interaction.",
+      "What emotions came up for you when faced with Sam's resistance?",
+      "Were there moments when you felt frustrated, and how did you manage those feelings?"
+    ],
+    "strategy_analysis": [
+      "Let's analyze your strategic approach:",
+      "What techniques did you use to build rapport with Sam?",
+      "How did you address his specific concerns about security, staffing, and other operational issues?",
+      "Were you able to find potential areas of common ground or compromise?"
+    ],
+    "communication_feedback": [
+      "Regarding your communication style:",
+      "How did you maintain professionalism when faced with dismissive responses?",
+      "Did you find yourself mirroring Sam's communication style, or did you maintain your own approach?",
+      "How effective was your use of questions versus statements in the conversation?"
+    ],
+    "change_management": [
+      "Now, let's connect this to change management principles:",
+      "How did you try to create a sense of urgency for the vaccination program?",
+      "Did you identify potential allies within the corrections system who might support your initiative?",
+      "How did you frame the benefits of the program in terms that would matter to Sam and his operation?"
+    ],
+    "alternative_approaches": [
+      "Consider some alternative approaches you might try in a similar situation:",
+      "Would starting with a smaller pilot program be more effective than proposing full implementation?",
+      "How might involving corrections officers in the planning process affect their buy-in?",
+      "What if you had brought data from similar facilities that successfully implemented vaccination programs?"
+    ],
+    "real_world_application": [
+      "Let's connect this simulation to real-world practice:",
+      "Have you encountered similar resistance in your clinical experiences?",
+      "What would you take from this simulation into future change management situations?",
+      "What resources or support would help you be more effective when facing resistance?"
+    ],
+    "closing": [
+      "Thank you for your thoughtful engagement with this challenging scenario.",
+      "Remember that change management is a process, and resistance is a normal part of that process.",
+      "The skills you're developing here will serve you well not just in public health nursing, but in any healthcare leadership role you may pursue."
+    ]
+  }
+}

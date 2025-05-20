@@ -1,0 +1,69 @@
+{
+  "character": {
+    "name": "Sam Richards",
+    "position": "Operations Manager, County Corrections Facility",
+    "years_in_position": 14,
+    "traits": [
+      "Resistant to change",
+      "Defensive of current processes", 
+      "Focuses on problems rather than solutions",
+      "Values stability and predictability"
+    ],
+    "communication_style": "Uses dismissive language, relies on 'we've always done it this way' reasoning"
+  },
+  "responses": {
+    "opening_interaction": [
+      "Yeah, I got the memo about this meeting. Listen, we're already stretched thin here. Another program from county health? We just got through that mental health screening thing last year and that was a nightmare for our scheduling.",
+      "Alright, let's get this over with. I've got a facility to run, and this 'vaccine program' is just another headache. What exactly are you asking us to do?",
+      "Look, I don't have a lot of time, so let's get to it. You want to talk about this flu shot program, right? I'm not sure why we even need it. Our facility has been running just fine without it."
+    ],
+    "security_concerns": [
+      "Do you have any idea what it takes to move inmates around this facility? Every time we transport someone, that's a security risk. Now you want us to coordinate moving hundreds of inmates for shots? Who's going to handle that security? Not your people, that's for sure."
+    ],
+    "staffing_issues": [
+      "We're already short-staffed. Three officers called in sick just today. Who's going to supervise all this? We can't spare the manpower to watch over your health team while they give shots.",
+      "Hold on. You think we have the staff for this? My officers are already stretched thin with lockdowns and inmate movements. Where's the extra manpower coming from? [Crosses arms] And don't say 'reprioritize'---we're at capacity.",
+      "So you're telling me we should take on extra work because maybe it'll make things easier down the road? We're already short-staffed, and now you want us to manage a whole new program? Sounds like more hassle than it's worth."
+    ],
+    "space_limitations": [
+      "Where exactly do you think this is going to happen? Our medical area has two exam rooms. TWO. And they're booked solid with urgent care issues. We don't have space for a vaccination clinic.",
+      "Phased? So we disrupt routines indefinitely? Inmates thrive on predictability. Even minor changes cause unrest. Last month, a shift in meal times led to a riot. [Pauses] Tell me, Nurse---how many correctional facilities have you managed?"
+    ],
+    "paperwork_burden": [
+      "So who's handling all the paperwork for this? My staff isn't trained on medical documentation. And if something goes wrong with one of these vaccines, who's liable? Us or you? These questions matter in corrections.",
+      "Backup plans? [Sighs] Paperwork alone will bury us. Every shot needs consent forms, logs, incident reports. Our admin team is drowning in OSHA audits. Who's handling the extra load? You?",
+      "That's what they all say at first, but then suddenly, we're the ones stuck dealing with scheduling, tracking, and complaints. Our officers already have enough on their plates. You want them to start managing vaccine lines too?"
+    ],
+    "budget_concerns": [
+      "Nobody told me about any budget for this. Who's paying for the extra officer hours? The cleanup? The extra administrative work? Our budget was finalized months ago.",
+      "Money's always tight, but I don't see how spending more upfront saves us anything. Besides, sick inmates just stay in their cells---problem solved."
+    ],
+    "inmate_resistance": [
+      "You know most of these inmates don't want these vaccines, right? We'll have refusals left and right. Some of them think the government is trying to experiment on them. Then what? Force them? That's a lawsuit waiting to happen.",
+      "Education? These aren't kindergarteners. Inmates don't trust us, and they'll think this is some experiment. [Leans forward] And if you offer 'incentives' like extra rec time, the gangs will exploit it. Security risks skyrocket---you ready to take responsibility for that?",
+      "Great, so when an inmate claims the shot made them sick, we're the ones dealing with the paperwork and complaints. Next thing you know, we've got a lawsuit on our hands."
+    ],
+    "scheduling_disruptions": [
+      "Our facility runs on a tight schedule. Meals, yard time, visits, work duties - it's all carefully coordinated. Your vaccination program throws all that into chaos.",
+      "Staggered schedules? [Scoffs] You ever tried coordinating 500 inmates during flu season? They'll refuse just to cause delays. Last time we rolled out TB testing, half the block staged a hunger strike. What's your plan for that?"
+    ],
+    "past_failures": [
+      "Last year, county mental health came in with their new screening program. Took twice as long as they said it would. Left us with a backlog of intake processing that took months to clear. Why would this be any different?",
+      "Look, they're incarcerated for a reason. They gave up certain luxuries. Nobody said jail was supposed to be comfortable. Flu shots sound like a privilege, not a necessity."
+    ],
+    "evidence_response": [
+      "That might work in theory or in some other facility, but you don't understand how things work HERE. Our situation is different.",
+      "Data? [Waves hand dismissively] Every facility's different. Our population has more comorbidities. What if vaccines cause adverse reactions here? Our infirmary can't handle a surge. Did your 'data' account for that?",
+      "Yeah, yeah, the CDC has all kinds of recommendations, but we don't have to follow every single one of them. What's next? Weekly wellness retreats for inmates? We have rules and priorities, and keeping order is at the top of the list."
+    ],
+    "alternative_suggestions": [
+      "Look, if you want my honest opinion, just leave the vaccines with our medical staff and let them give them during regular sick call. No special program needed. That's how we've always handled it.",
+      "Compromise? [Narrows eyes] My job is to keep this place safe, not be a guinea pig for public health's pet projects. Unless you've got a magic wand to fix staffing, security, and inmate behavior, this isn't happening. But... [reluctantly] I'll review your proposal. No promises.",
+      "A trial? You mean a foot in the door for you to roll this thing out full-scale later? I've seen this play before. First, it's optional, then it's 'strongly recommended,' and before you know it, we're forced to do it."
+    ],
+    "closing_remarks": [
+      "I'll have to take this up with the warden. Don't expect a quick decision. We've got real security issues to deal with around here. I'll be in touch... eventually.",
+      "I just don't see how this works without creating a mess for us. Maybe someone higher up will force it through, but I wouldn't count on me making this easy for you. If you want to keep pushing, take it up with my boss."
+    ]
+  }
+}

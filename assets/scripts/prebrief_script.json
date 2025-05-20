@@ -1,0 +1,42 @@
+{
+  "instructor": {
+    "name": "Noa Martinez",
+    "position": "Nursing Faculty, Public Health Department",
+    "communication_style": "Professional, supportive, clear"
+  },
+  "sections": {
+    "introduction": [
+      "Welcome to today's simulation exercise. You'll be taking on the role of a public health nurse meeting with Sam Richards, the Operations Manager at a county corrections facility.",
+      "This simulation will help you practice change management skills in a challenging environment where resistance to change is high."
+    ],
+    "scenario_background": [
+      "You are tasked with implementing a new flu vaccination program for incarcerated individuals at the county corrections facility.",
+      "This is your first meeting with Sam Richards, who has been in his position for 14 years and is known to be resistant to new initiatives.",
+      "Your goal is to convince Sam of the importance of this program and address any concerns or objections he may have."
+    ],
+    "character_profile": [
+      "Sam is known for focusing on problems rather than solutions. He values stability and predictability in facility operations.",
+      "His communication style is often dismissive, and he frequently relies on 'we've always done it this way' reasoning to resist change.",
+      "Remember that Sam is not personally against you, but is protecting what he sees as the operational integrity of his facility."
+    ],
+    "objectives": [
+      "Your primary objectives in this simulation are to:",
+      "One: Build rapport with Sam despite his resistance.",
+      "Two: Effectively address his concerns with evidence-based solutions.",
+      "Three: Find common ground that allows for implementation of the vaccination program.",
+      "Four: Apply appropriate change management principles in a realistic scenario."
+    ],
+    "preparation_tips": [
+      "Before you begin, consider these tips:",
+      "Anticipate objections related to security, staffing, space, scheduling, and inmate compliance.",
+      "Prepare concise, fact-based responses that acknowledge valid operational concerns.",
+      "Remember that small wins are valuable - you may not get full buy-in immediately.",
+      "Use active listening techniques, even when faced with dismissive responses."
+    ],
+    "closing": [
+      "You're now ready to begin your interaction with Sam Richards. Remember, persistence and professionalism are key.",
+      "After the simulation, we'll debrief and reflect on your strategies and their effectiveness.",
+      "Good luck, and remember that handling resistance is a skill that improves with practice."
+    ]
+  }
+}
